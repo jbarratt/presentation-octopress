@@ -1,0 +1,8 @@
+{
+  "name": "Sharpening The Saw: Blogging with Octopress",
+  "sections": [
+    {"section":"whyblog"},
+    {"section": "counterexample"},
+    {"section": "octopress"}
+  ]
+}
